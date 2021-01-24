@@ -1,0 +1,50 @@
+.registration {
+    
+    background-color:lightgray;
+    border:2px solid rgba(53, 40, 40, 0.185) ;
+    border-radius: 10px;
+    margin:  10px 10px 10px 10px;
+    padding: 0;
+    width: 400px;
+    height: 448px;
+}
+.registrationTitle {
+    font-size:xx-large;
+    border-bottom: 3px solid honeydew;
+    padding: 15px 15px 15px 15px;
+}
+.registrationField {
+    padding: 15px 15px 15px 15px;
+}
+.registrationButtons {
+    border-top: 3px solid honeydew;
+    padding: 15px 15px 15px 15px;
+}
+input {
+    width: 100%;
+    box-sizing: border-box;
+    height: 30px;
+    border: 0;
+    border-radius: 4px;
+}
+.password {
+    float: left;
+
+}
+.passwordField {
+    margin-left:20px;
+}
+.inputSpace {
+    height: 70px;
+}
+.rightButton {
+    float:right;
+}
+button {
+    height: 35px;
+    width: 100px;
+    border: 0ch;
+    border-radius: 5px;
+    background-color: dimgrey;
+    color: lightgray;
+}
